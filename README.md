@@ -5,15 +5,13 @@
 ```
 About me
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 I'm a computer science student, almost halfway through my degree. I'm self-studying new technologies to expand my knowledge.
+    I began studying Systems Engineering because it's a world where everything I imagine and think can become reality.
+    I like to believe that in the field of technology, there are no limits to what can be achieved.
+    I love working in teams and learning, as it helps me achieve my goals.
+    My goal is to become a Java software developer.
+🔭 I currently work freelance creating websites and systems to streamline processes.
+Outside of technology, I love to go fishing 🎣, camping ⛺, playing video games 🎮, or any activity related to getting outside and clearing my mind.
 ```
 <hr>
 
