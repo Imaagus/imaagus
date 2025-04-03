@@ -60,8 +60,8 @@ Outside of technology, I love to go fishing 🎣, camping ⛺, playing video gam
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=imaagus&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/imaagus)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=imaagus&theme=material-palenight)](https://github.com/imaagus)
+[![](https://github-readme-stats.vercel.app/api?username=ImanolDelCanto&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ImanolDelCanto)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ImanolDelCanto&theme=material-palenight)](https://github.com/ImanolDelCanto)
 
 
 
