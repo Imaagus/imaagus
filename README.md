@@ -3,7 +3,7 @@
 <hr>
 
 ```
-I-am-vishalmaurya@github
+About me
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
